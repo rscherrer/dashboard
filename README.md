@@ -2,7 +2,7 @@
 
 Overview of my projects.
 
-| x | y | z | w |
+| Name | Progress | Running title | Up next |
 |--|--|--|--|
 | [speciome](https://github.com/rscherrer/speciome) | ![](https://geps.dev/progress/80) | Model of adaptive speciation with epistasis | Implement feedback |
 | [brachypode](https://github.com/rscherrer/brachypode) | ![](https://geps.dev/progress/70) | Response to climate change in a patchy landscape | Intro and discussion needed |
