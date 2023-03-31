@@ -1,6 +1,6 @@
 # myDashboard
 
-What I am working on at the moment.
+Overview of my projects.
 
 | x | y |
 |--|--|
