@@ -1,6 +1,6 @@
 # myDashboard
 
-Overview of my projects.
+Overview of my projects. (Click [here](https://github.com/rscherrer/myDashboard-private) for a private version with links to unpublished manuscripts.)
 
 | Name | Progress | Running title | Up next |
 |--|--|--|--|
