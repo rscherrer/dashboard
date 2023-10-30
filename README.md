@@ -8,3 +8,5 @@
 | [reschoice](https://github.com/rscherrer/reschoice) | ![](https://geps.dev/progress/75) | Optimal choice and adaptive speciation |
 | [boplume](https://github.com/rscherrer/boplume) | ![](https://geps.dev/progress/100) | Color evolution in birds-of-paradie |
 | [dewlap](https://github.com/rscherrer/dewlap) | ![](https://geps.dev/progress/100) | Dewlap color in _Anolis sagrei_ |
+
+(---> [Supervisor Coner](https://github.com/rscherrer/supervisor-corner))
