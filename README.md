@@ -17,7 +17,7 @@ For VIP view, check out the [Supervisor Corner](https://github.com/rscherrer/sup
 * [reschoice](https://github.com/rscherrer/reschoice): :mortar_board: model of eco-evolutionary branching under resource choice
 * [hemigene](https://github.com/rscherrer/hemigene): model to explain the evolution of supergenes and hemizygosity
 * [coral-networks](https://github.com/rscherrer/coral-networks): :handshake: analysis of resilience in symbiont communities on Caribbean coral reefs
-* [evolvable-lizards](https://github.com/rsherrer/evolvable-lizards): :handshake: a study sexual selection and evolvability in _Anolis_ lizards
+* [evolvable-lizards](https://github.com/rscherrer/evolvable-lizards): :handshake: a study sexual selection and evolvability in _Anolis_ lizards
 * [roaming-cheetahs](https://github.com/rscherrer/roaming-cheetahs): :handshake: tracking movement patterns in South African cheetahs
 
 :mortar_board: = PhD chapter
