@@ -18,7 +18,6 @@ For VIP view, check out the [Supervisor Corner](https://github.com/rscherrer/sup
 * [hemigene](https://github.com/rscherrer/hemigene): model to explain the evolution of supergenes and hemizygosity
 * [coral-networks](https://github.com/rscherrer/coral-networks): :handshake: analysis of resilience in symbiont communities on Caribbean coral reefs
 * [evolvable-lizards](https://github.com/rscherrer/evolvable-lizards): :handshake: a study sexual selection and evolvability in _Anolis_ lizards
-* [roaming-cheetahs](https://github.com/rscherrer/roaming-cheetahs): :handshake: tracking movement patterns in South African cheetahs
 * [DAISIE2](https://github.com/rscherrer/DAISIE2): :handshake: re-implementing and augmenting a model of phylogenetic island biogeography
 
 :mortar_board: = PhD chapter
